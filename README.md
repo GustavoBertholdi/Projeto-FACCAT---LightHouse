@@ -1,2 +1,2 @@
 # Projeto FACCAT - LightHouse
- Projeto do jogo dinossaur do google para o processo seletivo da empresa.
+ Desafio proposto pela LightHouse para seu processo seletivo. Recriar o jogo usando HTML5, CSS3 e JavaScript.
