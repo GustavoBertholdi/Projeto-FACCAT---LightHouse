@@ -90,7 +90,7 @@
         position: relative;
     }
 
-    div#play img#dino {
+    div#estruturaDoJogo img#dino {
         position: relative;
         width: 100px;
         background-color: none;
@@ -112,12 +112,12 @@
         100%{bottom: -17px;}
     }    
     
-    div#play img#cacto {
+    div#estruturaDoJogo img#cacto {
         position: relative;
         width: 35px;
         height: 50px;
         background-color: none;
-        left: 700px;
+        left: 900px;
         bottom: -5px;
         animation: cacto 1s infinite linear;
     }
